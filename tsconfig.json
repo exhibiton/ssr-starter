@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "allowJs": true,
+    "target": "es2015",
+    "sourceMap": true,
+    "checkJs": false,
+    "baseUrl": "./src",
+    "paths": {
+      "*": ["*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
